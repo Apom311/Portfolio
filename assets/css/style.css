@@ -146,4 +146,7 @@ footer {
         min-width: min-content;
         max-width: none;
     }
+    .placeHolder {
+        border: 0px;
+    }
 }
